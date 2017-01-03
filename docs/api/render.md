@@ -11,7 +11,7 @@ disservice.
 
 For the purposes of this documentation, we will refer to Cheerio's constructor as
 `CheerioWrapper`, which is to say that it is analogous to our `ReactWrapper` and `ShallowWrapper`
-constructors.
+constructors. [Here](https://github.com/cheeriojs/cheerio#api) is a link to the API available from a `CheerioWrapper` instance.
 
 ### Example Usage
 
